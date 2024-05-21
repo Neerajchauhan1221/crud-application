@@ -1,0 +1,2 @@
+PORT= 8000
+ MONGOURL= "mongodb+srv://nchauhau3:y8pbVgXl57RagNjm@cluster0.qlhoheh.mongodb.net/crudApp?retryWrites=true&w=majority&appName=Cluster0"
